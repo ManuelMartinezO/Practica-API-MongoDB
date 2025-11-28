@@ -1,5 +1,7 @@
 ## API con MongoDB
-Una Api construida en javascript, mongoDB como base de datos, funcion de cargar y descargar archivos.
+Una Api construida con javascript, mongoDB como base de datos, funcion de cargar y descargar de archivos.
+### Objetivo
+Educativo.
 ### Endpoints
 ```
 Crear / Subir       POST    /api/games/upload
@@ -15,3 +17,5 @@ Descargar Archivo   GET     /api/games/:id/download
 ![Static Badge](https://img.shields.io/badge/Docker-090040?style=for-the-badge&logo=Docker&logoColor=FFCC00)
 ![Static Badge](https://img.shields.io/badge/Node.js-090040?style=for-the-badge&logo=Node.js&logoColor=FFCC00)
 ![Static Badge](https://img.shields.io/badge/Express-090040?style=for-the-badge&logo=Express&logoColor=FFCC00)
+![Static Badge](https://img.shields.io/badge/Claude-090040?style=for-the-badge&logo=Claude&logoColor=FFCC00)
+
